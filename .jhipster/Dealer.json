@@ -1,0 +1,20 @@
+{
+  "changelogDate": "20220315104903",
+  "clientRootFolder": "dealerapp",
+  "databaseType": "sql",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "microserviceName": "dealerapp",
+  "microservicePath": "../dealer-app",
+  "name": "Dealer",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}
